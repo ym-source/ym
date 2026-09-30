@@ -5,9 +5,9 @@
     "encryption": "A128GCM",
     "signatureAlgorithm": "Ed25519",
     "keyId": "prod-2026-01",
-    "nonce": "d9biN6TgEqqX3ksk",
-    "ciphertext": "OAOUIzXH+2wQAtLtueUrdwBoatvFN7m74JOKL4z/Yy0O9Nr9sn/ief/uOTylBXUpBJwqeo8in9k6+Ndxknmlw30KFAcP4xIXBODg8SSg5hZZmgHwEvo+3WKEo/MxctC1XKY74TMK0wf7UHYl9d6U7hjjxoMPdUNc3OpMYp2v1pNdedLoTMlgThblcRbKKhIAbymsOy9ae2TzYkUknKLyThgkxul+qaqJ6SM=",
-    "signature": "l/d4VYXLDkIMneOowGbDmtivJZ7PLXoUfu1gQOcVSGvsQarjV7C3a/16JU++UyDK03rCv4Eeo6p4BHKaR4axCw=="
+    "nonce": "jig/r1nrUTZhSGVW",
+    "ciphertext": "0vIF+RqEQmlkVRU898QHFUpj4bX+7SpfjHscUfwgLU+DXJWP3Tcj6FoPh+VH46DS6jEG6/iyInQr7ydPPxvzSDTEpM1wPfede/avtp60LY/xwWCK5/S4Ykoi4fpp9CrdeGJQCqcDn3/0l3LqTS86wX+EM7eudhREjsM946zwu4KdEs8CzoCPXvBcTPGeKKm8j4nktjYSAsbCkEAqwO36jmc07jZnjqnm+Qo=",
+    "signature": "Bx2JOT5vSvh3l0Xd0NRW2lpEOioRG5gNq5q3wiaasiL39D8aardXzsPiD8buRjxsSVxbxCTvA2EDm/8s76AkBw=="
   },
   "code": 200
 }
