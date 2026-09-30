@@ -1,0 +1,13 @@
+{
+  "msg": "操作成功",
+  "envelope": {
+    "format": 1,
+    "encryption": "A128GCM",
+    "signatureAlgorithm": "Ed25519",
+    "keyId": "prod-2026-01",
+    "nonce": "9laLP2irS6OPCU2z",
+    "ciphertext": "zxElHUwKVP2dgEqT/CO+SGL/1/bSqnZczE4FaOtfpXaGLGhz6lL86X9/AkIhYv6d2xnHVkdAIMXDRJMvUsdJkmXPWvk/mL+fM6xVZzsUVtQuX0wL9O9TzXlZAdCFG4jd10bdsWXIUWsBaY2/i9JZYiTNSyKC8YpK3S2gDlwOs9o7wIJcTVwyEabFf0QA4ThiGWtxsqcTNF885L/A",
+    "signature": "xr0h5fBtEdx9R7wSmlT8RzEjzRsQUX3OlSTaT3nGIW7LoDonj7i56cN/NEN8iBJExC2r7g4nlo3HdTQ3ArXIDA=="
+  },
+  "code": 200
+}
